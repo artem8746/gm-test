@@ -1,4 +1,4 @@
-### Star Wars heroes
+### G&M test task
 
 - [Demo](https://gm-test-six.vercel.app)
 
