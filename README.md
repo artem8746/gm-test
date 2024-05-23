@@ -1,6 +1,6 @@
 ### Star Wars heroes
 
-- [Demo](/)
+- [Demo](https://gm-test-six.vercel.app)
 
 ### Used technologies
 
